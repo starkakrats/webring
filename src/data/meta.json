@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Group Ring",
+    "description": "A group ring is a free module meanwhile a ring, and a webring of folks who really miss the old good 90s.",
+    "image": "groupring.jpg",
+    "url": "https://groupring.netlify.com",
+    "repo": "https://github.com/starkakrats/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "starkakrats",
+            "url": "https://github.com/starkakrats"
         }
     ]
 }
